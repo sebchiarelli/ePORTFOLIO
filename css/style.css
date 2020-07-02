@@ -1,0 +1,18 @@
+*{
+    background-color: rgb(30,30,30);
+    color: rgb(120, 120, 0);
+}
+div{
+    float: left;
+    width: 30%;
+	height: 30%;
+}
+.center{
+    float: left;
+    width: 30%;
+	height: 30%;
+}
+img{
+    width: 30%;
+	height: 30%;
+}
