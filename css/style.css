@@ -1,18 +1,32 @@
 *{
     background-color: rgb(30,30,30);
-    color: rgb(150, 130, 0);
+    color: rgb(160, 150, 0);
 }
-div{
+.container{
     float: left;
-    width: 30%;
-	height: 30%;
+    
 }
-.center{
-    float: left;
-    width: 30%;
-	height: 30%;
-}
+
 img{
-    width: 30%;
-	height: 30%;
+    width: 155.95px;
+	height: 95.3px;
+}
+.block{ 
+    float:none;
+}
+.vanish{
+    display:none;
+}
+span{
+    margin-top: 10px;    
+}
+
+#images{
+    float: left;
+    width: 180px;
+}
+#lespan{
+    float: left;
+    width: 50%;
+    height: 100%;
 }
