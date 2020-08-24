@@ -15,5 +15,5 @@ function vanishing2(){
     container[1].classList.add("vanish");
 }
 function vanishing3(){
-    document.querySelector("body").classList.toggle("vanish");
+    //document.querySelector("body").classList.toggle("vanish");
 }
